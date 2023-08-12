@@ -13,5 +13,5 @@ $ git clone (https://github.com/ZeroDevploit/crack
 ```
 $ cd crack
 $ git pull
-$ python 9.py
+$ python 8.py
 ```
