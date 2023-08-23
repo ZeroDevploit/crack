@@ -7,11 +7,11 @@ $ pip install requests mechanize
 $ pip install --upgrade pip
 $ pip install rich bs4
 $ pip install stdiomask
-$ git clone (https://github.com/ZeroDevploit/crack
+$ git clone https://github.com/ZeroDevploit/crack
 ```
 ## Jalankan
 ```
 $ cd crack
 $ git pull
-$ python 8.py
+$ python mbf.py
 ```
